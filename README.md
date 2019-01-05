@@ -1,6 +1,7 @@
 # PCE-CS-III-ML-Club
 |Registration No. | Name | Git Repo Link |
 |PCE16CE031 | Chayan Jain||
+|PCE16CE064 | Megha gupta||
 |PCE16CE085 | RISHINA DARGAR||
 |PCE16CE048 | Jai Prakash|| Vadera
 |PCE16CE081 | Priyanshi Agrawal||
